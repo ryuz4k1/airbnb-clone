@@ -16,6 +16,7 @@ export default function Home({ exploredata, cardsData }) {
 
       {/* Header */}
       <Header />
+
       {/* Banner */}
       <Banner />
 
